@@ -1,0 +1,11 @@
+<b>お帰りなさい〜</b>
+Welcome! This is an Nebulamancers (ネビュラマンサーズ) website emulation entirely made in JavaScript and HTML. Please use an archival if you wish to view the old website. This is meant as a replacement for speed.
+
+The artist (Pyohato) deleted all of his works at one point and went missing, and only a few things managed to be archived by the small community he had, as these works are considered public domain now due to being forfeited and not having valid copyright in the first place (see <a href="https://en.wikipedia.org/wiki/Public_domain">Public Domain on wikipedia</a>), they can be published as such.
+
+This archive and website is still being worked on, but I wish you a good visit.
+
+You can find the source code and contribute at <a href="https://github.com/Pyohato/nebulamancers.github.io">Github</a> - Feel free to use the site template to work on your own!
+Credits to a friend for the original source code of this project.
+
+Have fun!

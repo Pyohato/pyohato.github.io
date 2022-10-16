@@ -1,0 +1,2 @@
+Status of implementation and work:
+Working on implementing rest of the pages, characters, and other.
