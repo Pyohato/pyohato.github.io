@@ -5,7 +5,7 @@ The artist (Pyohato) deleted all of his works at one point and went missing, and
 
 This archive and website is still being worked on, but I wish you a good visit.
 
-You can find the source code and contribute at <a href="https://github.com/Pyohato/pyohato.github.io">Github</a> - Feel free to use the site template to work on your own!
+You can find the source code (html/js/desc) and contribute at <a href="https://github.com/Pyohato/pyohato.github.io">Github</a> - Feel free to use the site template to work on your own projects!
 Credits to a friend for the original source code of this project.
 
 Have fun!
